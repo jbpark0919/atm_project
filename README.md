@@ -1,7 +1,7 @@
 # ATM Project
 ## 프로젝트 설명
-ATM 기본 동작 흐름을 테스트 가능한 형태로 구현
-Mock 기반 ATM Controller
+- ATM 기본 동작 흐름을 테스트 가능한 형태로 구현
+- Mock 기반 ATM Controller
 
 ## 흐름
 Insert Card => PIN number => Select Account => See Balance/Deposit/Withdraw
