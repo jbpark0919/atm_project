@@ -1,5 +1,5 @@
 # atm_project
-# 프로젝트 설명
+## 프로젝트 설명
 ATM 기본 동작 흐름을 테스트 가능한 형태로 구현
 Mock 기반 ATM Controller
 
@@ -17,8 +17,12 @@ atm_project/
 └── README.md
 
 ## 실행 방법
-1. 프로젝트 클론
+### 1. 프로젝트 클론
+```bash
 git clone <GITHUB_REPO_URL>
 cd atm_project
-2. 테스트 실행
+```
+### 2. 테스트 실행
+```bash
 python -m unittest discover -s tests
+```
